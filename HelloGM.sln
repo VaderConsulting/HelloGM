@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloGM", "HelloGM\HelloGM.vbproj", "{EABF5A88-239B-4E69-B4EF-7D041918219A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test", "Test\Test.vbproj", "{E30AA350-2A81-4B83-AE48-042B4CE63D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABF5A88-239B-4E69-B4EF-7D041918219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABF5A88-239B-4E69-B4EF-7D041918219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABF5A88-239B-4E69-B4EF-7D041918219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABF5A88-239B-4E69-B4EF-7D041918219A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30AA350-2A81-4B83-AE48-042B4CE63D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30AA350-2A81-4B83-AE48-042B4CE63D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30AA350-2A81-4B83-AE48-042B4CE63D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30AA350-2A81-4B83-AE48-042B4CE63D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
