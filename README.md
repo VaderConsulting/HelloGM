@@ -22,6 +22,10 @@ VB.NET 2008 working copy whose `HelloGM` class library (RootNamespace HelloGM, t
 
 Open `HelloGM.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
