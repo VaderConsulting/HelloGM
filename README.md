@@ -28,6 +28,7 @@ Open `HelloGM.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `HelloGM`.
 - **Assembly company:** Microsoft
 - **Assembly copyright:** Copyright © Microsoft 2009, Copyright © Microsoft 2010
 
